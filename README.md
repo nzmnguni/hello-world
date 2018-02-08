@@ -1,3 +1,4 @@
 # hello-world
 data science
-mathematician.
+Nkosi
+codes with python
