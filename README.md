@@ -1,5 +1,4 @@
 # hello-world
 data science
-Nkosi here
-
-enjoy coding in python.
+Nkosi
+codes with python
